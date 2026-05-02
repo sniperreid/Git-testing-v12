@@ -1,1 +1,1 @@
-local function greeting() return print('Hello World') end return greeting
+local function greeting() return print('Hello World 2') end return greeting
