@@ -1,1 +1,1 @@
-return Live Demo Testing.
+return 'Live Demo Testing.'
