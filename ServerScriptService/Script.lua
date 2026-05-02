@@ -1,0 +1,1 @@
+local function greeting() return print('Hello World') end return greeting
